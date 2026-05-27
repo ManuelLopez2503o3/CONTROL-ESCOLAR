@@ -1,2 +1,1 @@
-
-console.log("Modulo de Inscripciones");
+console.log("Modulo de Inscripciones actualizado desde VS Code");
