@@ -1,4 +1,4 @@
 
 function panelCalificaciones() {
-    console.log("Cargando el CRUD de calificaciones para profesores...");
+    console.log("CRUD de calificaciones parciales");
 }
