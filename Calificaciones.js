@@ -1,4 +1,4 @@
 
 function panelCalificaciones() {
-    console.log("CRUD de calificaciones parciales");
+    console.log("CRUD de calificaciones parciales..");
 }
